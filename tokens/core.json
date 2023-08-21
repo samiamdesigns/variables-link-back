@@ -23,22 +23,6 @@
     "xl": {
       "value": "{dimension.lg} * {dimension.scale}",
       "type": "dimension"
-    },
-    "interaction": {
-      "touchpoint": {
-        "sm": {
-          "value": "40px",
-          "type": "dimension"
-        },
-        "md": {
-          "value": "44px",
-          "type": "dimension"
-        },
-        "lg": {
-          "value": "48px",
-          "type": "dimension"
-        }
-      }
     }
   },
   "spacing": {

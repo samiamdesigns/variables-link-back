@@ -115,19 +115,5 @@
         "paragraphSpacing": "{paragraphSpacing.h2}"
       }
     }
-  },
-  "button_dimension": {
-    "item_spacing": {
-      "value": "1rem",
-      "type": "dimension"
-    },
-    "padding": {
-      "value": "1rem",
-      "type": "dimension"
-    },
-    "min-height": {
-      "value": "{dimension.interaction.touchpoint.sm}",
-      "type": "dimension"
-    }
   }
 }
